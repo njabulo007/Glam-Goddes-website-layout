@@ -1,0 +1,147 @@
+body{
+
+}
+
+.pagewrap{
+    
+}
+
+.header-image{
+    background-color: rgba(255, 199, 230, 0.979);
+    background-image:linear-gradient(to right,#ffc7e6fa,#fff0e6fa 50%);
+    height: 200px;
+    margin: 25px;
+    padding: 40px;
+}
+
+.glamgoddes{
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Elsie Swash Caps', cursive;
+    text-shadow: 6px 6px 6px rgba(0, 0, 0, 0.925);
+    
+}
+
+.slogan{
+    text-align: center;
+    font-size: 40px;
+    padding: 20px;
+    font-family: 'Monofett', cursive;
+
+}
+
+.nails{
+    background-color: rgba(255, 199, 210, 0.800);
+    margin: 25px;
+    padding: 40px;
+    height: 400px;
+    text-align: center;
+}
+
+.hair{
+    background-color: rgba(255, 199, 210, 0.800);
+    margin: 25px;
+    padding: 40px;
+    height: 4;
+    text-align: center;
+    position: relative;
+}
+
+.text{
+    padding: 10px;
+    margin: 10px;
+    font-size: 45px;
+    font-family: 'Gayathri', sans-serif;
+    
+    
+}
+
+.text-background{
+    background-color: rgba(255, 199, 230, 0.979);
+    border: 2px solid black;
+    margin: 30px;
+}
+
+
+.images{
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+
+.image1:hover, .image2:hover, .image3:hover, .image4:hover, .image5:hover{
+    box-shadow: 5px 10px rgba(0, 0, 0, 0.685);
+    border-radius: 0px;
+    background-color: rgba(187, 88, 233, 0.795);
+}
+
+.image1{
+    background-color: rgba(187, 88, 233, 0.623);
+    height: 200px;
+    width: 200px;
+    margin: 30px;
+    border: 2px solid rgba(0, 0, 0, 0.603);
+    border-radius: 5px;
+    box-shadow: 3px 7px rgba(0, 0, 0, 0.473);
+
+}
+
+.image2{
+    background-color: rgba(187, 88, 233, 0.623);
+    height: 200px;
+    width: 200px;
+    margin: 30px;
+    border: 2px solid rgba(0, 0, 0, 0.603);
+    border-radius: 5px;
+    box-shadow: 3px 7px rgba(0, 0, 0, 0.473); 
+}
+
+.image3{
+    background-color: rgba(187, 88, 233, 0.623);
+    height: 200px;
+    width: 200px;
+    margin: 30px;
+    border: 2px solid rgba(0, 0, 0, 0.603);
+    border-radius: 5px;
+    box-shadow: 3px 7px rgba(0, 0, 0, 0.473);
+}
+
+.image4{
+    background-color: rgba(187, 88, 233, 0.623);
+    height: 200px;
+    width: 200px;
+    margin: 30px;
+    border: 2px solid rgba(0, 0, 0, 0.603);
+    border-radius: 5px;
+    box-shadow: 3px 7px rgba(0, 0, 0, 0.473);
+}
+
+.image5{
+    background-color: rgba(187, 88, 233, 0.623);
+    height: 200px;
+    width: 200px;
+    margin: 30px;
+    border: 2px solid rgba(0, 0, 0, 0.603);
+    border-radius: 5px;
+    box-shadow: 3px 7px rgba(0, 0, 0, 0.473);
+}
+
+.footer{
+    background-color: darkgray;
+    height: 300px;
+
+}
+
+.facebook, .insta, .twitter, .whatsapp{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    padding: 20px;
+    margin: 20px;
+}
+
+.info{
+    
+
+}
+
+
